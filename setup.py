@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata_henrymelendez", # Replace with your own username
-    version="0.0.1",
+    version="0.1.1",
     author="Henrymelendez",
     author_email="author@example.com",
     description="A small example package that splits dates into month year day, and a function that checks for null values ",
